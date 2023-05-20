@@ -1,14 +1,9 @@
-.flex {
-  display: flex;
-  flex-wrap: wrap;
-}
+.App{
 
-.shopping-card {
-  justify-content: space-between;
-  background-color: #61dafb;
-  padding: 20px 30px;
-}
+width: fit-content;
+max-width: fit-content;
+max-height: 100px;
 
-.product-item {
-  padding: 20px;
+
+
 }
